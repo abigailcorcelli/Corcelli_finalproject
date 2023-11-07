@@ -11,4 +11,4 @@ N/A
 
 ## Do you have any questions of your own?
 
-I'm wondering a little about the limitations of web design with the skills I have now. In an ideal world I would like to make a digital project page that is highly interactive, but I'm not sure if the skills I have now would enable me to do that. 
+I'm wondering a little about the limitations of web design with the skills I have now. In an ideal world I would like to make a digital project page that is highly interactive (inspired by digital project sites like this: http://tudornetworks.net or this: http://xpmethod.columbia.edu/torn-apart/volume/2/index , but I'm not sure if the skills I have now would enable me to do that. 
